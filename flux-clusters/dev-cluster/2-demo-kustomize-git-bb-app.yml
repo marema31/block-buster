@@ -5,7 +5,7 @@ metadata:
   name: 2-demo-kustomize-git-bb-app
   namespace: 2-demo
 spec:
-  interval: 1m0s
+  interval: 10s
   path: ./manifests
   prune: true
   sourceRef:
