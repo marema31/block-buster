@@ -8,4 +8,4 @@ spec:
   interval: 1m0s
   ref:
     name: 2-demo
-  url: ssh://git@github.com/marema31/block-buster
+  url: ssh://git@github.com/marema31/bb-app-source
